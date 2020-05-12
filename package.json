@@ -1,0 +1,24 @@
+{
+  "name": "tareaNPM",
+  "version": "1.0.0",
+  "description": "MI primer server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giovanni-tj/tarea_npmExpress.git"
+  },
+  "keywords": [],
+  "author": "Giovanni Tufino Jorge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giovanni-tj/tarea_npmExpress/issues"
+  },
+  "homepage": "https://github.com/giovanni-tj/tarea_npmExpress#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
